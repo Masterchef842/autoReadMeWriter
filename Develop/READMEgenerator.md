@@ -4,30 +4,29 @@
 
 ## Description
 
-auto generates readme.md files
+have you ever written a program and it works great but now you have to spend 20 minutes writing a readme file? worry no more, because this program auto generates that readme.md file
 
 ## Table of Contents
 
-- [Installation](#Installation)
-- [Usage](#Usage)
-- [Credits](#Credits)
-- [License](#License)
+- [Installation](## Installation)
+- [Usage](## Usage)
+- [Credits](## Credits)
+- [License](## License)
 
 ## Installation
-    download it, install inquirer, 
+    download it, install nodeJS, and run 'npm i' in the terminal 
 
 ## Usage
 
-    run using node js
-
-To add a screenshot, create an 'assets/images' folder in your repository and upload your screenshot to it.
+    run the program using nodeJS
+![my screenshot](.\Develop\pictures\Untitled.png)
 
 ## Credits
-    no
+    none
 
 ## License
 
-    Copyright (c) [year] [fullname]
+    Copyright (c) 2023 Robert William Lord
 
             Permission is hereby granted, free of charge, to any person obtaining a copy
             of this software and associated documentation files (the "Software"), to deal
@@ -49,11 +48,11 @@ To add a screenshot, create an 'assets/images' folder in your repository and upl
 
 ## How to Contribute
 
-    adding more licenses and probably other things too
+    Go to github and submit an issue
 
 ## Tests
 
-    i just ran it a bunch of times
+    I just ran it a bunch
 
 ##Questions
 
