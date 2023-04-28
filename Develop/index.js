@@ -931,7 +931,7 @@ Public License instead of this License.  But first, please read
 function writeToFile(fileName, data){
     fs.writeFile((fileName), `
 
-# Project Name:${data.projectName}
+# Project Name: ${data.projectName}
 
 ## Description
 
